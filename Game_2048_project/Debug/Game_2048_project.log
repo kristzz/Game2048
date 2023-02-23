@@ -1,0 +1,10 @@
+﻿  Game_2048_project.cpp
+C:\Users\emils\source\repos\Game_2048_project\Game_2048_project\Game_2048_project.cpp(239,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\emils\source\repos\Game_2048_project\Game_2048_project\Game_2048_project.cpp(239,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\emils\source\repos\Game_2048_project\Game_2048_project\Game_2048_project.cpp(301,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\emils\source\repos\Game_2048_project\Game_2048_project\Game_2048_project.cpp(429,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\emils\source\repos\Game_2048_project\Game_2048_project\Game_2048_project.cpp(433,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\emils\source\repos\Game_2048_project\Game_2048_project\Game_2048_project.cpp(437,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\emils\source\repos\Game_2048_project\Game_2048_project\Game_2048_project.cpp(441,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\emils\source\repos\Game_2048_project\Game_2048_project\Game_2048_project.cpp(445,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Game_2048_project.vcxproj -> C:\Users\emils\source\repos\Game_2048_project\Debug\Game_2048_project.exe
